@@ -1,6 +1,4 @@
-###
-# The program simulates five dice rolls.
-#
+
 import random
 print("Dice rolling simulator")
 for i in range(5):
