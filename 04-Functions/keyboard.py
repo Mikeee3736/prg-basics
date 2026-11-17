@@ -3,7 +3,7 @@
 # input_real() that returns a real number entered from the keyboard
 # input_boolean() that returns a boolean value depending on the pressed y/n key
 def input_string(input1):
-    input1= input("Enter your text:")
+    input1= input("Enter your Name:")
     result= input1
     return result
 
